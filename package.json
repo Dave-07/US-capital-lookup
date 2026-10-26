@@ -1,0 +1,21 @@
+{
+  "name": "us-capital-lookup",
+  "version": "1.0.0",
+  "description": "A small web app for finding US state capitals. Type a state name or abbreviation and get its capital, population, area, political leaning, average salary and coordinates. Built with plain HTML, CSS and JavaScript.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dave-07/US-capital-lookup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dave-07/US-capital-lookup/issues"
+  },
+  "homepage": "https://github.com/Dave-07/US-capital-lookup#readme"
+}
